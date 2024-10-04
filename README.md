@@ -3,7 +3,6 @@ Hello! My name is Enver Emin. I am new to programming, and I want to document my
 
 ## Contact
 - **Email:** enveremin@proton.me
-- **Instagram:** enveremincaglar
 - **Discord:** enveremincaglar
 
 Thank you for visiting my profile!
